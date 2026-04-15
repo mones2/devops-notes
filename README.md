@@ -1,2 +1,12 @@
 # devops-notes
-Personal learning notes and lab exercises across Linux, Docker, Kubernetes, CI/CD, and cloud.
+
+Personal lab notes and exercises.
+
+## Topics
+
+- Linux & networking
+- Docker & containers
+- Databases
+- CI/CD
+- Kubernetes
+- Cloud & IaC
